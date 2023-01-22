@@ -1,0 +1,11 @@
+Dados do aluno
+
+-Primeiro Nome: Marcio Vicente
+-Profissão: Analista Field service
+-Cidade: Nova Iguaçu
+-O que faz nas horas vaga: estudo e Dormi e comer vejo videos de tecnolocgia e de guitarras.
+-Feedback sobre o curso Qualidade de Software: Em um certo modulo poderiamos ver os teste na pratica do dia a dia de Eng de QA.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma e muito boa 
+
+Obrigado!!!
+
